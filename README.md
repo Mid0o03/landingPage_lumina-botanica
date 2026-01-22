@@ -1,20 +1,39 @@
+# LUMINA BOTANICALS
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="luminaBotanica.gif" width="100%" alt="Project Demo Banner" />
+  
+  <br />
+
+  ![React](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Vite](https://img.shields.io/badge/VITE-black?style=for-the-badge&logo=vite&logoColor=white)
+  
 </div>
 
-# Run and deploy your AI Studio app
+<br />
 
-This contains everything you need to run your app locally.
+## ⚡ About The Project
+Lumina Botanicals is a premium, high-performance landing page for a modern natural skincare brand. It showcases a "clean beauty" aesthetic with fluid animations, glassmorphism effects, and a responsive design that highlights organic products and brand values.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1L9Um4i42hHz4IcZyosxiHSvWj6c8IEsx
+## ✨ Key Features
+* 🎯 **Modern & Responsive UI :** A fully responsive interface featuring glassmorphism navigation and smooth transitions, built with Tailwind CSS.
+* 🚀 **Dynamic Component Architecture :** Modular React components powered by TypeScript for robust type safety and maintainable code structure.
+* 🎨 **Data-Driven Content :** Centralized content management using a specialized constants file to dynamically render products, benefits, and navigation elements.
 
-## Run Locally
+## 🛠️ Built With
+* **Front-end :** React, TypeScript, Tailwind CSS, Vite
+* **Back-end :** Local Static Data (Client-Side Only)
 
-**Prerequisites:**  Node.js
+## 🚀 Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/Mid0o03/landingPage_lumina-botanica.git
 
+# Install dependencies
+npm install
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Run the server
+npm run dev
+```
